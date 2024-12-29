@@ -1,8 +1,8 @@
-import { Button } from "@/Components/ui/button";
-import { Card, CardContent } from "@/Components/ui/card";
-import { Input } from "@/Components/ui/input";
-import { Label } from "@/Components/ui/label";
-import AuthLayout from "@/Layouts/AuthLayout";
+import { Button } from "@/components/ui/button";
+import { Card, CardContent } from "@/components/ui/card";
+import { Input } from "@/components/ui/input";
+import { Label } from "@/components/ui/label";
+import AuthLayout from "@/Layouts/auth-layout";
 import { useForm } from '@inertiajs/react';
 import React, { FormEventHandler } from "react";
 
